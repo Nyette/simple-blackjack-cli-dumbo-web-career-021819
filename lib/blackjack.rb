@@ -67,7 +67,7 @@ def runner
   # code runner here
   welcome
   initial_round
-  until card_total > 21
+  until card_total > 21 do
     # something
   end
 end
